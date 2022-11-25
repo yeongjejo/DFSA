@@ -1,7 +1,7 @@
 # 톰슨 샘플링 기반 동적 프레임 슬롯 알로하
 ## paper 
 
-   https://drive.google.com/file/d/1h0J8KfMO5cHxxFqjlXmJQhGfel-YDVu9/view?usp=share_link
+   https://drive.google.com/file/d/1i8R71aakAOhN8Z9PIjj0EnHxSkJNAixx/view?usp=share_link
    
    
  ## result
